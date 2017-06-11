@@ -1,0 +1,9 @@
+Building Meteorcoin
+
+See doc/readme-qt.rst for instructions on building Meteorcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Meteorcoin.
+
+See doc/build-*.txt for instructions on building meteorcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Meteorcoin.
